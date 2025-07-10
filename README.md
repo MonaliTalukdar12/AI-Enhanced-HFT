@@ -201,7 +201,7 @@ AI_HFT_Hybrid/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/AI-HFT-Hybrid.git
+   git clone https://github.com/Marco210210/AI-Enhanced-HFT
    ```
 
 2. Open **MetaTrader 5** and load the Expert Advisor:
@@ -235,7 +235,7 @@ AI_HFT_Hybrid/
 
 ## 👥 Author
 
-- **Marco Di Maio** – [GitHub Profile](https://github.com/YourGitHubUsername)
+- **Marco Di Maio** – [GitHub Profile](https://github.com/Marco210210) | Data Science Field
 
 ---
 
